@@ -34,7 +34,7 @@
     [_connectBtn addTarget:self action:@selector(connectAction) forControlEvents:UIControlEventTouchUpInside];
     
     
-    image = [[UIImageView alloc]initWithFrame:CGRectMake(0, 300, KScreenWidth, KScreenWidth *658 /960.0)];
+    image = [[UIImageView alloc]initWithFrame:CGRectMake(0, 200, KScreenWidth, KScreenWidth)];
     image.backgroundColor = [UIColor redColor];
     [self.view addSubview:image];
     

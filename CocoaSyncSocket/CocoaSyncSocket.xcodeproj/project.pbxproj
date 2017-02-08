@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1EB662DF0E46DE2442AEA0D3 /* libPods-CocoaSyncSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D90EBDACD94F0BDB5CA65278 /* libPods-CocoaSyncSocket.a */; };
-		5A5CCAF11E4AE4D7001292FE /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A5CCAF01E4AE4D7001292FE /* test.jpg */; };
+		5AA946AF1E4AF4ED00F8DB8F /* test.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5AA946AE1E4AF4ED00F8DB8F /* test.jpeg */; };
 		5AC5061C1E135B3300B2AB8C /* TYHSocketManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AC5061B1E135B3300B2AB8C /* TYHSocketManager.m */; };
 		5AFBA80D1E10F067007E1578 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AFBA80C1E10F067007E1578 /* main.m */; };
 		5AFBA8101E10F067007E1578 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AFBA80F1E10F067007E1578 /* AppDelegate.m */; };
@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5A5CCAF01E4AE4D7001292FE /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpg; sourceTree = "<group>"; };
+		5AA946AE1E4AF4ED00F8DB8F /* test.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpeg; sourceTree = "<group>"; };
 		5AC5061A1E135B3300B2AB8C /* TYHSocketManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYHSocketManager.h; sourceTree = "<group>"; };
 		5AC5061B1E135B3300B2AB8C /* TYHSocketManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYHSocketManager.m; sourceTree = "<group>"; };
 		5AFBA8081E10F067007E1578 /* CocoaSyncSocket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CocoaSyncSocket.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -129,7 +129,7 @@
 				5AC5061A1E135B3300B2AB8C /* TYHSocketManager.h */,
 				5AC5061B1E135B3300B2AB8C /* TYHSocketManager.m */,
 				5AFBA8141E10F067007E1578 /* Main.storyboard */,
-				5A5CCAF01E4AE4D7001292FE /* test.jpg */,
+				5AA946AE1E4AF4ED00F8DB8F /* test.jpeg */,
 				5AFBA8171E10F067007E1578 /* Assets.xcassets */,
 				5AFBA8191E10F067007E1578 /* LaunchScreen.storyboard */,
 				5AFBA81C1E10F067007E1578 /* Info.plist */,
@@ -283,9 +283,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AFBA81B1E10F067007E1578 /* LaunchScreen.storyboard in Resources */,
+				5AA946AF1E4AF4ED00F8DB8F /* test.jpeg in Resources */,
 				5AFBA8181E10F067007E1578 /* Assets.xcassets in Resources */,
 				5AFBA8161E10F067007E1578 /* Main.storyboard in Resources */,
-				5A5CCAF11E4AE4D7001292FE /* test.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

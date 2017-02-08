@@ -82,7 +82,7 @@ static const uint16_t Kport = 6969;
     [self sendData:data3 :@"txt"];
     [self sendData:data4 :@"txt"];
     
-    NSString *filePath = [[NSBundle mainBundle]pathForResource:@"test" ofType:@"jpg"];
+    NSString *filePath = [[NSBundle mainBundle]pathForResource:@"test" ofType:@"jpeg"];
     
     NSData *data5 = [NSData dataWithContentsOfFile:filePath];
     
