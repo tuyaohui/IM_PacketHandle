@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "508224446.711906"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8540"
+            endingLineNumber = "8540"
+            landmarkName = "CFReadStreamCallback()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "508224446.711906"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8752"
+            endingLineNumber = "8752"
+            landmarkName = "-registerForStreamCallbacksIncludingReadWrite:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GCDAsyncSocket registerForStreamCallbacksIncludingReadWrite:]"
+                  moduleName = "CocoaSyncSocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuyaohui/Desktop/tyhGithub/IM_PacketHandle/CocoaSyncSocket/Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+                  timestampString = "508224758.082617"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8752"
+                  endingLineNumber = "8752"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GCDAsyncSocket registerForStreamCallbacksIncludingReadWrite:]"
+                  moduleName = "CocoaSyncSocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuyaohui/Desktop/tyhGithub/IM_PacketHandle/CocoaSyncSocket/Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+                  timestampString = "508224758.086416"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8752"
+                  endingLineNumber = "8752"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "508224446.711906"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3230"
+            endingLineNumber = "3230"
+            landmarkName = "-didConnect:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "508224446.711906"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8679"
+            endingLineNumber = "8679"
+            landmarkName = "-createReadAndWriteStream"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GCDAsyncSocket createReadAndWriteStream]"
+                  moduleName = "CocoaSyncSocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuyaohui/Desktop/tyhGithub/IM_PacketHandle/CocoaSyncSocket/Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+                  timestampString = "508224758.099493"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8680"
+                  endingLineNumber = "8680"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GCDAsyncSocket createReadAndWriteStream]"
+                  moduleName = "CocoaSyncSocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tuyaohui/Desktop/tyhGithub/IM_PacketHandle/CocoaSyncSocket/Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+                  timestampString = "508224758.102464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8680"
+                  endingLineNumber = "8680"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "508224446.711906"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8611"
+            endingLineNumber = "8611"
+            landmarkName = "CFWriteStreamCallback()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "506933476.985922"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2706"
+            endingLineNumber = "2706"
+            landmarkName = "-connectToUrl:withTimeout:error:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "506933476.985922"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2889"
+            endingLineNumber = "2889"
+            landmarkName = "-connectSocket:address:stateIndex:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "506933476.985922"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2899"
+            endingLineNumber = "2899"
+            landmarkName = "-connectSocket:address:stateIndex:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CocoaAsyncSocket/Source/GCD/GCDAsyncSocket.m"
+            timestampString = "506933476.985922"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3137"
+            endingLineNumber = "3137"
+            landmarkName = "-didConnect:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
