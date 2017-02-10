@@ -86,16 +86,25 @@ static const uint16_t Kport = 6969;
                              options:NSJSONReadingMutableContainers
                              error:nil];
         
+        
+        if (!currentPacketHead) {
+            NSLog(@"error：当前数据包的头为空");
+            
+            //断开这个socket连接或者丢弃这个包的数据进行下一个包的读取
+            
+            //....
+            
+            return;
+        }
+        
         NSUInteger packetLength = [currentPacketHead[@"size"] integerValue];
+        
         //读到数据包的大小
         [sock readDataToLength:packetLength withTimeout:-1 tag:110];
 
         return;
     }
-    if (!currentPacketHead) {
-        NSLog(@"error：当前数据包的头为空");
-        return;
-    }
+
     
     //正式的包处理
     NSUInteger packetLength = [currentPacketHead[@"size"] integerValue];
